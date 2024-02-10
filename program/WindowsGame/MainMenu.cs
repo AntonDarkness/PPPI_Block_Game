@@ -27,7 +27,11 @@ public class MainMenu
   public void buttonSetting(){
     //метод обработки нажатия на кнопку "настройки"
   }
+
   public void loadWindows(){
     //метод загрузки других окон при нажатии кнопок
   }
+  
+  //другие методы класса
+
 }

@@ -1,3 +1,6 @@
+///<summary>
+///Класс который реализует сервер для игры
+///</summary>
 public class Server
 {
   ///<summary>

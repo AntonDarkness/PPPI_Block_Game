@@ -25,6 +25,8 @@ public class Server
   public void deleteGameSession(int user_id_1, int user_id_2){
     //уничтожение игровой сесии
   }
-  
+  ///<summary>
+  ///Другие методы, которые необходимы для корректной работы
+  ///</summary>
   /*Другие методы, необходимые для корректной работы сервера*/
 }

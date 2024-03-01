@@ -10,7 +10,7 @@ public class Account
   ///<summary>
   ///Имя пользователя
   ///</summary>
-  private username;
+  private string username;
   ///<summary>
   ///IP-адресс пользователя
   ///</summary>

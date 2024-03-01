@@ -43,7 +43,6 @@ public class GameLogic
   ///Конкструктор класса, создающий игру по установленной сложности
   ///</summary>
   ///<param name="difficult">Сложность игры</param>
-  ///<returns>Игровое поле</returns>
   public GameLogic(int difficult){
     //запуск игровой логике - появление первой фигуры
     //и установка начальной скорости игры

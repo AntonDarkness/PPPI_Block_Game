@@ -1,3 +1,6 @@
+///<summary>
+///Класс который реализует настройки игры
+///</summary>
 public class Settings
 {
   ///<summary>

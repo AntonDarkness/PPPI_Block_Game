@@ -51,7 +51,7 @@ public class GameLogic
   ///<summary>
   ///Метод создания игрового процесса
   ///</summary>
-  private void gameProcess(){
+  private void gameProcessStart(){
     //метод отвечающий за начало игрового процесса
   }
   ///<summary>

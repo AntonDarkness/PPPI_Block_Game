@@ -27,6 +27,7 @@ public class Account
   ///<summary>
   ///Метод изменения имени пользователя по указанному новому имени
   ///</summary>
+  ///<param name="newName">Имя пользователя</param>
   public void changeUsername(string newName){
     //метод изменения никнейма пользователя
   }

@@ -1,3 +1,6 @@
+///<summary>
+///Класс который реализует задачи запуска игры
+///</summary>
 public class StartGame
 {
   ///<summary>

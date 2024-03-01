@@ -1,3 +1,6 @@
+///<summary>
+///Класс который отвечает за игровую логику
+///</summary>
 public class GameLogic
 {
   ///<summary>

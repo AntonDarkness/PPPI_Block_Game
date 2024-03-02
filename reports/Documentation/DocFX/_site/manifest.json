@@ -1,0 +1,342 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/testo/source/repos/PPPI_Block_Game-main/PPPI_Block_Game-main",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "ZcRFJgNhvhM6kAH28Vkb5TxxGPe7FlftmernEpHWKBw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "yF4cM99miGSsrT64oV0kgkl56YkQylthgw5Gl1aJqzo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "GGOovSab6ZFxRkwbTiKX/AxcXz9WU1qSZOSIhjRqq74="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Account.html",
+          "hash": "X5GXtjKePtSJW2wOfM60B3MD95aBZR2s2yHTf0s40sQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Figures.Figure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Figures.Figure.html",
+          "hash": "v4kAE72lse+TYyyktNkhz5uFaYbe9pKQNO0+gWvS300="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Figures.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Figures.html",
+          "hash": "id4hhX9+6TdcG8qrhjTZoBTaPSilh0kU3vPlqLFzrh4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Form1.html",
+          "hash": "mucpV4H+OojeivRFH1Z2K7gfXWs+dy4h37z62wcDOtE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.GameLogic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.GameLogic.html",
+          "hash": "qtI+uk3Nyojs51GSrxZ1l3iuDPBkztmaA09ArJMxSH4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.LocalAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.LocalAccount.html",
+          "hash": "OWSljF6+ukN17PYbz1NJZpbjArf+vuja25lL4oWqSzw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.MultiplayerLogic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.MultiplayerLogic.html",
+          "hash": "y6ipX74XkTCLRM7BilaZmF2l1qWjBB2UHJcv5eXtzp0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Server.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Server.html",
+          "hash": "1BseNJcudBgtfIQZDtXdkFhJdhu2adCtU6XdtUBb1+8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.Settings.html",
+          "hash": "vQ5vwnOn7jJkfKAiERRYOEGNWaePHSl8cC5wu3NO9nU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.StartGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.StartGame.html",
+          "hash": "/vj8JLilXJCHklI+PeLa77cphjB5/T8KLBxySK9VcAw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.ChangeDifficult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.ChangeDifficult.html",
+          "hash": "KvRdzfGFndfFSyZk18zsloFgU4Ta0JQW5DVmxXjcu0A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.Game.html",
+          "hash": "tUfCppJekAUl7nwZPHb0eDUYBHWMGSFPQcoUM6DkTxw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.MainMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.MainMenu.html",
+          "hash": "0PXy49nzPUatqMa4WU752iLe5+UauWs6ZFj2UTXaRNM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.MultiplayerMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.MultiplayerMenu.html",
+          "hash": "HXHcuCDFMi9Ww2ZCDK9g0IpvKXWX8cRoOopRyKW2mdk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.OnePlayerMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.OnePlayerMenu.html",
+          "hash": "hwKD/EoB4YTCxrVavykue+YL6N0wLGvr2GmJa0T6Qfs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.SettingsMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.SettingsMenu.html",
+          "hash": "sR9pkomX3aZjOKa5JiKWscHwzdADaSxPQmx6P0YRtRo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.WindowsGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.WindowsGame.html",
+          "hash": "kT0S/8+Xi3tVj+mCaBH7K0zW3fdUPkCnliYiA9IzyE8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PPPI_Block_Game_main.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PPPI_Block_Game_main.html",
+          "hash": "zuzslyZzuTkVzPGscjQdiYn06tP4MYrN7GBe4a7528Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "G458oxs4GKCPaths0py9PzuUwFwMcvJLREGMvMRkAF0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Oa9PuD4E1hvZnCkVjUgzNBX6S00Zo5YilamTERTZo54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 18,
+          "skipped_file_count": 17
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
